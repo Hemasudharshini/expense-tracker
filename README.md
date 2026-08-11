@@ -6,7 +6,7 @@ The application allows users to manage income and expenses, calculate their bala
 
 ## 🚀 Live Demo
 
-Coming soon...
+https://hemasudharshini.github.io/expense-tracker/
 
 ## ✨ Features
 
